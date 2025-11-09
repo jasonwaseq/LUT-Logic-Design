@@ -1,0 +1,8 @@
+{
+    "top": "delay",
+    "_comment": "You may add other modules that you need",
+    "files":
+    ["part1/delay/delay.sv",
+    "provided/SRL16E.v"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "top": "xor2",
+    "_comment": "You may add other modules that you need",
+    "files":
+    ["part1/xor2/xor2.sv",
+    "provided/LUT6.v"
+    ]
+}

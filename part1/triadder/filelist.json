@@ -1,0 +1,9 @@
+{
+    "top": "triadder",
+    "_comment": "You may add other modules that you need",
+    "files":
+    ["part1/triadder/triadder.sv",
+    "part1/full_add/full_add.sv",
+    "provided/ICESTORM_LC.v"
+    ]
+}

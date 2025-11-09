@@ -1,0 +1,8 @@
+{
+    "top": "mux2",
+    "_comment": "You may add other modules that you need",
+    "files":
+    ["part1/mux2/mux2.sv",
+    "provided/LUT6.v"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "top": "xnor2",
+    "_comment": "You may add other modules that you need",
+    "files":
+    ["part1/xnor2/xnor2.sv",
+    "provided/LUT6.v"
+    ]
+}
